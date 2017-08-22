@@ -1,5 +1,5 @@
 <idea-plugin version="2">
-  <id>com.kenrota</id>
+  <id>io.github.kenrota</id>
   <name>Example</name>
   <version>1.0</version>
   <vendor url="https://github.com/kenrota">kenrota</vendor>
